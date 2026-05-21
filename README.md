@@ -1,23 +1,23 @@
 # Lista de Compras com JavaFX
 
-Aplicacao desktop para gerenciar itens de uma lista de compras, praticando colecoes, interface grafica e persistencia simples.
+Aplicação desktop para gerenciar itens de uma lista de compras, praticando coleções, interface gráfica e persistência simples.
 
-## Repositorio
+## Repositório
 
 [lista-de-compras](https://github.com/p-rcorreia/lista-de-compras.git)
 
 ## Objetivo
 
-Criar uma lista de compras onde seja possivel adicionar, remover, marcar e organizar itens.
+Criar uma lista de compras onde seja possível adicionar, remover, marcar e organizar itens.
 
 ## Conceitos praticados
 
 - JavaFX
 - ListView ou TableView
-- Colecoes
+- Coleções
 - Eventos de interface
-- Persistencia simples em arquivo
-- Organizacao de classes
+- Persistência simples em arquivo
+- Organização de classes
 
 ## Funcionalidades planejadas
 
@@ -32,8 +32,8 @@ Criar uma lista de compras onde seja possivel adicionar, remover, marcar e organ
 
 Planejado.
 
-## Evidencias para portfolio
+## Evidências para portfólio
 
 - Screenshot da lista em uso
-- Video adicionando e removendo itens
-- Explicacao sobre persistencia dos dados
+- Vídeo adicionando e removendo itens
+- Explicação sobre persistência dos dados
